@@ -7,14 +7,13 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 
 ## Funcionamento
 
-Coleta de Dados:
-O sensor de movimento detecta atividades físicas no ambiente.
-Processamento:
-O Arduino processa os dados para determinar a intensidade da atividade.
-Feedback Visual:
-O LED RGB emite diferentes cores de luz com base na intensidade da atividade física detectada.
-Registro no Prontuário:
-Os dados sobre a atividade física e o feedback visual são registrados automaticamente no prontuário online da Atlas 
+•Coleta de Dados: o sensor de movimento detecta atividades físicas no ambiente.
+
+•Processamento: o Arduino processa os dados para determinar a intensidade da atividade.
+
+•Feedback Visual: o LED RGB emite diferentes cores de luz com base na intensidade da atividade física detectada.
+
+•Registro no Prontuário: os dados sobre a atividade física e o feedback visual são registrados automaticamente no prontuário online da Atlas 
 
 ## Esquemas eletrônicos
 
@@ -26,18 +25,22 @@ Os dados sobre a atividade física e o feedback visual são registrados automati
 # Instruções para replicar e testar a solução
 
 1.	Acesso ao Tinkercad:
+
 2.	Criar um Novo Projeto:
+
 3.	Seleção dos Componentes:
 •	Arduino Uno
 •	Sensor PIR
 •	LED RGB 
-5.	Conexão dos Componentes:
+
+4.	Conexão dos Componentes:
 •	Conecte a saída do sensor PIR ao pino digital 2 do Arduino.
 •	Conecte o pino de catodo do LED RGB a um resistor de 220 ohms e, em seguida, ao terra do Arduino.
 •	Conecte os pinos de ánodo dos LEDs RGB aos pinos digitais 9, 10 e 11 do Arduino.
 •	Conecte o pino de cada LED RGB ao terra com resistores de 220 ohms.
 •	Conecte o pino 5v do Arduino na entrada de potência do PIR
-6.  Programação do Arduino:
+
+5.  Programação do Arduino:
 •	Escreva o código necessário 
 
 # Códigos-fonte
