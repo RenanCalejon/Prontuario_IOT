@@ -2,7 +2,7 @@
 O prontuário médico online da Atlas-Med facilita a realização de consultas virtuais, possibilitando que pacientes obtenham orientações médicas sem a necessidade de deslocamento.
 
 
-# Descrição Detalhada da Solução
+# Descrição Detalhada da Solução 🔍
 Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma solução interativa e visual para incentivar a atividade física, integrando-se ao prontuário  online da Atlas-Med para fornecer informações úteis sobre o estilo de vida dos pacientes.
 
 ### Funcionamento
@@ -15,7 +15,7 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 
 •Registro no Prontuário: os dados sobre a atividade física e o feedback visual são registrados automaticamente no prontuário online da Atlas 
 
-# Esquemas eletrônicos
+# Esquemas eletrônicos 
 
 1.	Sensor de Movimento (sensor PIR )
 2.	LED RGB
@@ -43,7 +43,7 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 5.  Programação do Arduino:
 •	Escreva o código necessário 
 
-# Códigos-fonte
+# Códigos-fonte ⬇️
 
 #include <ArduinoIoTCloud.h>
 
