@@ -7,13 +7,13 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 
 ## Funcionamento
 
-### Coleta de Dados:
+Coleta de Dados:
 O sensor de movimento detecta atividades físicas no ambiente.
-### Processamento:
+Processamento:
 O Arduino processa os dados para determinar a intensidade da atividade.
-### Feedback Visual:
+Feedback Visual:
 O LED RGB emite diferentes cores de luz com base na intensidade da atividade física detectada.
-### Registro no Prontuário:
+Registro no Prontuário:
 Os dados sobre a atividade física e o feedback visual são registrados automaticamente no prontuário online da Atlas 
 
 ## Esquemas eletrônicos
