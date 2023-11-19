@@ -24,9 +24,9 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 
 # Instruções para replicar e testar a solução
 
-1.	Acesso ao Tinkercad:
+### 1.	Acesso ao Tinkercad:
 
-2.	Criar um Novo Projeto:
+### 2.	Criar um Novo Projeto:
 
 ### 3.	Seleção dos Componentes:
    
@@ -47,7 +47,7 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 
 •	Conecte o pino 5v do Arduino na entrada de potência do PIR
 
-6.  Programação do Arduino:
+### 6.  Programação do Arduino:
 •	Escreva o código necessário 
 
 # Códigos-fonte ⬇️
