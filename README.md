@@ -34,7 +34,7 @@ Fizemos um dispositivo utilizando o Arduino ,PIR e LED RGB para proporciona uma 
 
 • Sensor PIR
 
-•L ED RGB 
+• LED RGB 
 
 ### 5.	Conexão dos Componentes:
 •	Conecte a saída do sensor PIR ao pino digital 2 do Arduino.
